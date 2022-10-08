@@ -1,5 +1,5 @@
 """
-Created by Shashank Ramesh KUmar
+Created by Amith Vishnu
 October 07, 2022
 This makes the data requests from GitHub API.
 """
