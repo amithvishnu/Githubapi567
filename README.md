@@ -1,5 +1,5 @@
 # Githubapi567
-![build status of master](https://app.travis-ci.com/RK-ops/GithubAPI567.svg?branch=main)
+![build status of master](https://app.travis-ci.com/AmithVishnu-ops/GithubAPI567.svg?branch=main)
 
 SSW567 
 HW04a
